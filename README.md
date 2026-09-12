@@ -29,6 +29,8 @@ Link: **https://k9scli.io/**
 
 Link: https://keda.sh/
 
+Exemplo de uso do Cron Scaler: https://github.com/renatogroffe/kubernetes-keda-cron_worker-fake-dotnet
+
 ### Scanning de vulnerabilidades com Trivy
 
 Link: **https://trivy.dev/**
