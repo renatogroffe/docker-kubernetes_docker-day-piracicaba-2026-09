@@ -37,6 +37,12 @@ Link: **https://trivy.dev/**
 
 Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
 
+### Guias de Segurança
+
+- OWASP Kubernetes Top Ten: **https://kubernetes-top10.owasp.org/**
+- Docker Security Cheat Sheet - OWASP: **https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html**
+- Kubernetes Security Cheat Sheet - OWASP: **https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html**
+
 ### Certificações gratuitas
 
 * Linux Foundation: **https://training.linuxfoundation.org/full-catalog/?_sfm_price=0**
