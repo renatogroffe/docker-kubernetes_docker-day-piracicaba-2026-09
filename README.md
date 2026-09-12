@@ -1,2 +1,40 @@
 # docker-kubernetes_docker-day-piracicaba-2026-09
 Conteúdos da apresentação "Docker e Kubernetes: dicas e truques para descomplicar sua vida ao trabalhar com containers!". Tecnologias abordadas: Kubernetes, Docker, Linux, Azure Kubernetes Service, Grafana, Prometheus, OpenTelemetry, Azure DevOps, KEDA, Visual Studio Code...
+
+## Algumas dicas e truques
+
+### Container Tools for Visual Studio Code
+
+Uma alternativa a ferramentas licenciadas.
+
+Link: **https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers**
+
+Testes:
+
+```bash
+docker run -e "EndpointRequest=https://httpbin.org/get" -d renatogroffe/dotnet10-worker-httprequest:2
+```
+
+### Kor - objetos em desuso num cluster Kubernetes
+
+Link: **https://github.com/yonahd/kor**
+
+Pipeline de exemplo: **https://github.com/renatogroffe/azuredevops-kubernetes-kor**
+
+### k9s - Monitoramento e gerenciamento de objetos do Kubernetes via interface + linha de comando
+
+Link: **https://k9scli.io/**
+
+### Escalabilidade com KEDA
+
+Link: https://keda.sh/
+
+### Scanning de vulnerabilidades com Trivy
+
+Link: **https://trivy.dev/**
+
+Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
+
+
+
+
