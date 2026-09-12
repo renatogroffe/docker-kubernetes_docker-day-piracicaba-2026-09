@@ -37,6 +37,8 @@ Link: **https://trivy.dev/**
 
 Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
 
+### Certificações gratuitas
 
+* Linux Foundation: **https://training.linuxfoundation.org/full-catalog/?_sfm_price=0**
 
-
+* Grafana: **https://learn.grafana.com/**
